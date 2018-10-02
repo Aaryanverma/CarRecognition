@@ -2,7 +2,7 @@
 Tells whether the car is Maruti Suzuki Swift or not.
 
 Steps:
-1. Download or clone this repo.
+1. Download or clone this repo (Ensure that you have Python{3.6 recommended} and TensorFlow installed).
 2. In command prompt or terminal(whatever you use), browse inside the file location of this repo.
 3. type this code:<br>
 ```
